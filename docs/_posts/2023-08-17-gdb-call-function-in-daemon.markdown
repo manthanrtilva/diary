@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GDB: Call function of running process"
-date:   2023-08-17 11:37:00 +0000
+date:   2023-08-17 00:37:00 +0000
 categories: gdb,daemon,runtime
 ---
 Below code snippet mimic infinitely running process which log to stdout. We will demonstrate how to change log level at runtime.(without restarting running process)
